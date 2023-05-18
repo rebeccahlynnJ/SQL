@@ -1,9 +1,0 @@
---Create a book list database
-
-
-CREATE TABLE favoritebooks (id INTEGER PRIMARY KEY, name TEXT, rating Numeric );
-
-INSERT INTO favoritebooks VALUES(1, "Eragon", 10);
-INSERT INTO favoritebooks VALUES(2, "Maximum Ride", 8.5);
-INSERT INTO favoritebooks VALUES(3, "Percy Jackson", 9.5);
-
